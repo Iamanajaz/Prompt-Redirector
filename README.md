@@ -48,17 +48,12 @@ project/
 ```
 
 ---
+## Technologies Used
 
+* HTML5
+* CSS3
+* Vanilla JavaScript
 
-## Installation
-
-Simply clone or download the project.
-
-```bash
-git clone https://github.com/your-username/prompt-redirector.git
-```
-
-Open `index.html` in your browser.
 
 ---
 
@@ -86,32 +81,11 @@ https://chatgpt.com/?prompt=Explain%20JavaScript%20closures%20with%20examples
 
 ---
 
-## Technologies Used
 
-* HTML5
-* CSS3
-* Vanilla JavaScript
 
----
 
-## Browser Support
 
-* Chrome
-* Edge
-* Firefox
-* Safari
 
----
-
-## Future Improvements
-
-* Dark mode
-* Share button
-* URL shortening
-* Prompt history
-* Mobile responsive enhancements
-
----
 
 ## License
 
